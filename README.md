@@ -1,2 +1,10 @@
 # app-dev
 My First repository
+# MT FAVORITE MOVIE
+## ROMANCE/DRAMA/COMEDY
+
+**FROM NETFLIX**
+1. BUBBLES
+2. A SILENT VOICE
+3. PONYO
+ 
